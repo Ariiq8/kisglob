@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    height: 100vh;
+    background-color: #29879B;
+    background-image: linear-gradient(to bottom right, white, #29879B);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+
+.kotak{
+
+background: linear-gradient(180.1deg, #00B2FF 0.09%, rgba(196, 196, 196, 0) 140.7%);
+filter: drop-shadow(0px 4px 5px rgba(0, 0, 0, 0.35));
+border-radius: 20px;
+}
+
+
